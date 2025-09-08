@@ -1,13 +1,4 @@
 fastapi
-uvicorn[standard]
-pandas
-numpy
-yfinance
-requests
-pydantic
-pandas-ta
-matplotlib
+uvicorn
 streamlit
-sqlalchemy
-python-dotenv
-pytest
+requests
