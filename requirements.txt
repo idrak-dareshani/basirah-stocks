@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+yfinance
+requests
+pydantic
+pandas-ta
+matplotlib
+streamlit
+sqlalchemy
+python-dotenv
+pytest
